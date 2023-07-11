@@ -10,13 +10,13 @@
 Abundant resources related to [**Multi-Target Multi-Camera Object Tracking (MTMCT)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4353604) 🔥
 
 <p align="center">
-<img src="./assets/gnn4ts.png" width="400">
+<img src="./assets/overlapping 2.png" width="400">
 </p>
 
 In the visual tracking community, the dominant research focus used to be around tracking either a single object (SOT) or multiple objects (MOT) within a single camera. However, with the increasing adoption of multi-camera networks across various applications, the demand for multi-camera tracking systems has surged, surpassing the usage of single cameras [1]. 
 
 <p align="center">
-<img src="./assets/taxonomy.png" width="1200">
+<img src="./assets/overlapping 3.png" width="1200">
 </p>
 
 We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented and the second taxonomy (right) is model-oriented. The task-oriented taxonomy is based on the tasks that GNNs are used for in time series analysis. The model-oriented taxonomy is based on the types of GNNs used in time series analysis.
