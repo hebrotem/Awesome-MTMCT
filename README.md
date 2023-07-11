@@ -19,14 +19,15 @@ In the visual tracking community, the dominant research focus used to be around 
 <img src="./assets/overlapping 3.png" width="1200">
 </p>
 
-We provide two taxonomies for GNN4TS. The first taxonomy (left) is task-oriented and the second taxonomy (right) is model-oriented. The task-oriented taxonomy is based on the tasks that GNNs are used for in time series analysis. The model-oriented taxonomy is based on the types of GNNs used in time series analysis.
+We provide a comprehensive and up-to-date review of visual object tracking in multi-camera settings. The study analyzes and categorize existing works based on six crucial facets: problem formulation, adopted problem solving approach, data association requirements, mutual exclusion constraints, benchmark datasets, and performance metrics.
 
 ## News
-- [2023-07-07] 🔥 Our GNN4TS survey (*ver. 11 Jul*) is made available on arXiv [[paper link]](https://arxiv.org/pdf/2307.03759.pdf)
-- [2023-06-19] 🔥 We have released this repository that collects the resources related to GNNs for time series analysis (GNN4TS). We will keep updating this repository, and welcome to **STAR** and **WATCH** to keep track of it.
+- [2023-07-11] 🔥 We have released this repository that collects the resources related to GNNs for time series analysis (GNN4TS). We will keep updating this repository, and welcome to **STAR** and **WATCH** to keep track of it.
+ 
+- [2023-07-08] 🔥 Our review paper with the title "Multi-Camera Multi-Object Tracking: A Review of Current Trends and Future Advances" (*ver. 06 Jul*) was accepted for publication in **Neurocomputing** 
 
 ## Table of Contents
-- [Awesome-GNN4TS](#awesome-gnn4ts)
+- [Awesome-MTMCT](#awesome-mtmct)
   - [News](#news)
   - [Collection of Papers](#collection-of-papers)
     - [GNNs for Time Series Forecasting (GNN4TSF)](#gnns-for-time-series-forecasting-gnn4tsf)
