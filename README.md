@@ -30,8 +30,8 @@ We provide a comprehensive and up-to-date review of visual object tracking in mu
 - [Awesome-MTMCT](#awesome-mtmct)
   - [News](#news)
   - [Collection of Papers](#collection-of-papers)
-    - [GNNs for Time Series Forecasting (GNN4TSF)](#non-overlapping-multi-camera)
-    - [GNNs for Time Series Classification (GNN4TSC)](#gnns-for-time-series-classification-gnn4tsc)
+    - [Non-overlapping multi-camera](#non-overlapping-multi-camera)
+    - [Overlapping multi-camera](#overlapping-multi-camera)
     - [GNNs for Time Series Anomaly Detection (GNN4TAD)](#gnns-for-time-series-anomaly-detection-gnn4tad)
     - [GNNs for Time Series Imputation (GNN4TSI)](#gnns-for-time-series-imputation-gnn4tsi)
   - [Collection of Datasets](#collection-of-datasets)
@@ -44,7 +44,7 @@ We provide a comprehensive and up-to-date review of visual object tracking in mu
 - Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting (IJCAI, 2018) [[paper]](https://arxiv.org/pdf/1709.04875.pdf)
 
 
-### GNNs for Time Series Classification (GNN4TSC)
+###  Overlapping multi-camera
 To be continued...
 
 ### GNNs for Time Series Anomaly Detection (GNN4TAD)
