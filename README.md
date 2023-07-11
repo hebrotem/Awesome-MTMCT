@@ -32,8 +32,8 @@ We provide a comprehensive and up-to-date review of visual object tracking in mu
   - [Collection of Papers](#collection-of-papers)
     - [Non-overlapping multi-camera](#non-overlapping-multi-camera)
     - [Overlapping multi-camera](#overlapping-multi-camera)
-    - [GNNs for Time Series Anomaly Detection (GNN4TAD)](#gnns-for-time-series-anomaly-detection-gnn4tad)
-    - [GNNs for Time Series Imputation (GNN4TSI)](#gnns-for-time-series-imputation-gnn4tsi)
+    - [Two-step hierarchical approach)](#two-step-hierarchical-approach)
+    - [Global MCT approach](#global-mct-approach)
   - [Collection of Datasets](#collection-of-datasets)
   - [Applications](#applications)
 
@@ -47,10 +47,10 @@ We provide a comprehensive and up-to-date review of visual object tracking in mu
 ###  Overlapping multi-camera
 To be continued...
 
-### GNNs for Time Series Anomaly Detection (GNN4TAD)
+### Two-step hierarchical approach
 To be continued...
 
-### GNNs for Time Series Imputation (GNN4TSI)
+### Global MCT approach 
 To be continued...
 
 ## Collection of Datasets
